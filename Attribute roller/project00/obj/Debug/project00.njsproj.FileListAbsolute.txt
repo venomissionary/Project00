@@ -1,0 +1,3 @@
+C:\Users\Steven Hernandez\Desktop\CMPM 120\Attribute roller\project00\obj\Debug\project00.njsproj.AssemblyReference.cache
+C:\Users\Steven Hernandez\Desktop\CMPM 120\Attribute roller\project00\obj\Debug\project00.njsproj.CoreCompileInputs.cache
+C:\Users\Steven Hernandez\Desktop\CMPM 120\Attribute roller\project00\bin\Microsoft.NodejsTools.WebRole.dll
